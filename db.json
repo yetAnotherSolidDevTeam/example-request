@@ -1,8 +1,8 @@
 {
   persons: [
     {
-      name: "mateusz",
-      age: 47
+      "name": "mateusz",
+      "age": 47
     }
   ]
 }
