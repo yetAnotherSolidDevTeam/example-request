@@ -1,5 +1,5 @@
 {
-  persons: [
+  "persons": [
     {
       "name": "mateusz",
       "age": 47
